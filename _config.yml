@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               PacketBrothers
 tagline:             'A place for network dreamers'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'Made by <a href="https://twitter.com/BrothersPacket" target="_blank">@BrothersPacket</a>.'
 url:                 http://packetbrothers.github.io/blog
 baseurl:             '/blog'
 paginate:            5
