@@ -4,18 +4,18 @@
 permalink:           pretty
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
+title:               PacketBrothers
+tagline:             'A place for network dreamers'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+url:                 http://packetbrothers.github.io/blog
 baseurl:             '/blog'
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Packet Brother
+  url:               https://twitter.com/BrothersPacket
+  email:             packetbrothers@gmail.com
 
 # Custom vars
 version:             1.0.0
